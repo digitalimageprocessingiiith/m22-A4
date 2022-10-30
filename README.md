@@ -8,7 +8,7 @@
   ```
   ├── src           
         ├── Assignment4.ipynb
-  ├── images    
+  ├── imgs   
   └── README.md
   ```
 - `src` will contain the Jupyter notebooks used for the assignment.
