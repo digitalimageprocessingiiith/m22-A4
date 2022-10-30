@@ -7,7 +7,7 @@
 - Follow the directory structure as shown below: 
   ```
   ├── src           
-        ├── Assignment2.ipynb
+        ├── Assignment4.ipynb
   ├── images    
   └── README.md
   ```
@@ -16,5 +16,5 @@
 - **Make sure you run your Jupyter notebook before committing, to save all outputs.**
 
 ## Questions and Images
-- Refer to this [drive link](https://drive.google.com/drive/folders/1mos4gz1cEJA3SaOYSS0AMXzdO3u2ufUu?usp=sharing) for finding the question pdf and images folder.
+- Refer to this [drive link](https://drive.google.com/drive/folders/1tcmMEFAlwO3_CzzcFTmqtTHFYCP6MYcw?usp=sharing) for finding the question pdf and images folder.
 - New questions will be added periodically as and when new topics are covered in the class.
